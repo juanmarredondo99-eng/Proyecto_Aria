@@ -59,7 +59,7 @@ Ubicado en `src/` encontrarás:
 1. Descarga el repositorio
 2. Abre `/src/index.html` en un navegador
 
-### 🔹 Opción 2 — GitHub Pages (Recomendado para portafolio)
+### 🔹 Opción 2 — GitHub Pages 
 Después de subir el repositorio:
 1. Ir a **Settings → Pages**
 2. Seleccionar branch: `main`
@@ -74,3 +74,4 @@ Estudiante de Ingeniería Industrial – Analítica y Desarrollo Web
 📍 Medellín – Colombia 
 
 ---
+
