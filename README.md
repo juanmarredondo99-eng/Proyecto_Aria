@@ -52,21 +52,6 @@ Ubicado en `src/` encontrarás:
 > o puede ser desplegado fácilmente en GitHub Pages / Netlify / Vercel.
 
 ---
-
-## 🚀 Cómo ejecutar o visualizar la web
-
-### 🔹 Opción 1 — Local
-1. Descarga el repositorio
-2. Abre `/src/index.html` en un navegador
-
-### 🔹 Opción 2 — GitHub Pages (Recomendado para portafolio)
-Después de subir el repositorio:
-1. Ir a **Settings → Pages**
-2. Seleccionar branch: `main`
-3. Seleccionar carpeta `/src`
-4. Guardar — GitHub generará una URL pública
-
----
 ## 👤 Autor
 
 **Juan Manuel Arredondo Londoño**  
@@ -74,3 +59,4 @@ Estudiante de Ingeniería Industrial – Analítica y Desarrollo Web
 📍 Medellín – Colombia 
 
 ---
+
